@@ -1,0 +1,24 @@
+{
+    "metadata":{
+        "name":"Quiz",
+        "by":"Fikricahyon24"
+    },
+    
+    "question":{
+        "1": {
+            "quest":"Berapakah hasil dari (3 + 3): ",
+            "answer":"6"
+        },
+        "2": {
+            "quest":"Apakah dunia itu luas?: ",
+            "answer":"iya"
+        },
+        "3": {
+            "quest":"Kapan hari kemerdekaan Indonesia?: ",
+            "answer":"17 Agustus 1945"
+        }
+    },
+
+    "yes": "Bagud, jawabanmu Benar!",
+    "no": "Yah, jawabanmu salah!"
+}
