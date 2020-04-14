@@ -11,11 +11,10 @@ recovered = data['recovered']['value']
 death = data['deaths']['value']
 care = data['activeCare']['value']
 
-os.system("figlet Covid-19")
-print("\n\tLokasi: Indonesia")
-print("———")
-print("Kasus Terkonfirmasi: ",confirmed)
-print("Sembuh: ",recovered)
-print("Meninggal: ",death)
-print("Dalam Perawatan: ",care)
+print("\n\tUpdate Covid-19 di Indonesia")
+print("\t———")
+print("\tKasus Terkonfirmasi: ",confirmed)
+print("\tSembuh: ",recovered)
+print("\tMeninggal: ",death)
+print("\tDalam Perawatan: ",care)
 print("")

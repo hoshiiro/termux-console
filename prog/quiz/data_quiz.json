@@ -1,0 +1,32 @@
+{
+	"metadata":{
+		"name":"Quiz",
+		"by":"Fikricahyon24"
+	},
+
+	"question":{
+		"serius":{
+			"1":{
+				"quest":"Kapan Indonesia merdeka?",
+				"answer":"17 agustus 1945"
+			},
+			"2":{
+				"quest":"Apa nama ibukota Indonesia?",
+				"answer":"jakarta"
+			}
+		},
+		"lucu":{
+			"1":{
+				"quest":"Menang menang apa yang bikin sedih?",
+				"answer":"menangkap basah pacar yang sedang selingkuh"
+			},
+			"2":{
+				"quest":"Hewan apa yang cuek?",
+				"answer":"Dino-raurus"
+			}
+		}
+	},
+
+	"yes":"Jawaban kamu benar!!",
+	"no":"Jawaban kamu salah!!"
+}
